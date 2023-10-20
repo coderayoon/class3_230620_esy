@@ -10,5 +10,8 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+<script>
+// location.href="/booking/step2.jsp";
+</script>
 </body>
 </html>
